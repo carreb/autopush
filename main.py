@@ -12,7 +12,6 @@ info = config['info']
 repo_name = info['repo_name']
 owner_username = info['owner_username']
 token = info['token']
-branch = info['branch']
 push_auto = info['push_automatically']
 repo = Repo("./" + repo_name)
 

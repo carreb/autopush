@@ -1,6 +1,6 @@
 # autopush
 a simple python program that checks a directory for updates and automatically commits any updated files (and optionally pushes them)
-##installation 📲
+## installation 📲
 1. download the latest release
 2. choose the options you want in config.ini
 3. clone the repository you want to commit to in the same directory as this program. ensure the directory name is the same as the repository's name

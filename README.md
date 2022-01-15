@@ -5,7 +5,7 @@ a simple python program that checks a directory for updates and automatically co
 2. choose the options you want in config.ini
 3. clone the repository you want to commit to in the same directory as this program. ensure the directory name is the same as the repository's name
 4. `python main.py`: it will start checking the directory for changes and commit them if changes are detected.
-##config ⚙️
+## config ⚙️
 there are 3 options in the config.ini file. required changes are marked with an *
 ### repo_name* 📂
 put the repository name here, it will use it to know which directory to track.

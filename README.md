@@ -13,6 +13,8 @@ put the repository name here, it will use it to know which directory to track.
 generate an api token by going to Settings > Developer settings > Personal access tokens and then clicking on Generate new token configure it however you'd like and then paste it into the config file. make sure it has access to all repo features!!
 ### push_automatically 🔄
 if `true`, the program will automatically push any changes made, if `false` you will have to run `$git push` to push your changes
+## upcoming features ⏰
+* add an option in config.ini that will allow you to change commit message
 ## problem? 🤖
 open an issue and i'll get back to you!  
 feel free to leave feature requests, bug reports, or any other thing you need to let me know about.

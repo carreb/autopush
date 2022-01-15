@@ -9,9 +9,9 @@ a simple python program that checks a directory for updates and automatically co
 there are 3 options in the config.ini file. required changes are marked with an *
 ### repo_name* 📂
 put the repository name here, it will use it to know which directory to track.
-## token* 🪙
+### token* 🪙
 generate an api token by going to Settings > Developer settings > Personal access tokens and then clicking on Generate new token configure it however you'd like and then paste it into the config file. make sure it has access to all repo features!!
-## push_automatically 🔄
+### push_automatically 🔄
 if `true`, the program will automatically push any changes made, if `false` you will have to run `$git push` to push your changes
 ## problem? 🤖
 open an issue and i'll get back to you!  
